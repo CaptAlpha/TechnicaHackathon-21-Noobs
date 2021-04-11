@@ -53,7 +53,7 @@ Setting milestones
 
 
 ## Our Project: 
-![markdown image](https://github.com/CaptAlpha/TechnicaHackathon-21-Noobs/blob/main/public/unknown%20(1).png)
+![markdown image](https://github.com/CaptAlpha/TechnicaHackathon-21-Noobs/blob/main/public/unknown.png)
 ![markdown image](https://github.com/CaptAlpha/TechnicaHackathon-21-Noobs/blob/main/public/unknown%20(1).png)
 ![markdown image](https://github.com/CaptAlpha/TechnicaHackathon-21-Noobs/blob/main/public/unknown%20(2).png)
 ![markdown image](https://github.com/CaptAlpha/TechnicaHackathon-21-Noobs/blob/main/public/unknown%20(3).png)
