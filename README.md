@@ -6,7 +6,7 @@ Private Repo For Technica Hack 21
 Project Presented by TEAM : NOOBS
 
 
-![markdown logo](./logmo.png "Logo")
+
 
 ## Overview of the project
 
